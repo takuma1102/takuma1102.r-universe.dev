@@ -2,6 +2,10 @@
   {
     "package": "nonabsdid",
     "url": "https://github.com/takuma1102/nonabsdid"
+  },
+  {
+    "package": "cfcompare",
+    "url": "https://github.com/takuma1102/cfcompare"
   }
 ]
 
