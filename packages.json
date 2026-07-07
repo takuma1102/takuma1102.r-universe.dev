@@ -6,6 +6,10 @@
   {
     "package": "cfcompare",
     "url": "https://github.com/takuma1102/cfcompare"
+  },
+  {
+    "package": "ssBartik",
+    "url": "https://github.com/takuma1102/ssBartik"
   }
 ]
 
